@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "[url=https://imgbb.com/][img]https://i.ibb.co/Ms8V5xP/banner.png[/img][/url]", 
+      "value": "<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ms8V5xP/banner.png" alt="banner" border="0"></a>", 
       "id": 2386, 
       "name": "app_logo"
     },
