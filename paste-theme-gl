@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#7863A6\">NETCELL</font>", 
+      "value": "<font color=\"#6F8ABF\">NETCELL</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -33,13 +33,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#7863A6", 
+      "value": "#6F8ABF", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#7863A6", 
+      "value": "#6F8ABF", 
       "id": 42, 
       "name": "icon_color"
     }, 
