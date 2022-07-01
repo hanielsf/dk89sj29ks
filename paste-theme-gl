@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "<img src="https://i.ibb.co/Ms8V5xP/banner.png" alt="banner" border="0">, 
+      "value": "https://i.ibb.co/Ms8V5xP/banner.png" border="0">, 
       "id": 2386, 
       "name": "app_logo"
     },
